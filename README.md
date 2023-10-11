@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mwb0350&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+<!--
 <div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=mwb0350&hide_title=false&hide_border=true&show_icons=truel&ine_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
+-->
